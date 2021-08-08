@@ -4,7 +4,7 @@
     "FirstName":"bellam",
     "LastName":"rahul",
     "address":"peddapalli",
-    "salary":90000
+    "salary":90000,
     "DOB":"22-01-1991"
   },
   {
@@ -12,7 +12,7 @@
     "FirstName":"bellam",
     "LastName":"akhil",
     "address":"peddapalli",
-    "salary":90000
+    "salary":90000,
     "DOB":"22-01-1991"
   },
   {
@@ -20,7 +20,7 @@
     "FirstName":"bellam",
     "LastName":"nagaraj",
     "address":"peddapalli",
-    "salary":90000
+    "salary":90000,
     "DOB":"22-01-1991"
   },
   {
@@ -28,7 +28,7 @@
     "FirstName":"bellam",
     "LastName":"shiva",
     "address":"peddapalli",
-    "salary":90000
+    "salary":90000,
     "DOB":"22-01-1991"
   },
   
