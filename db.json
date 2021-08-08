@@ -1,11 +1,35 @@
-{
-  "products" :[
- {
-    "productId": 12531614,
-    "product": "CDI Pack Of 4 Ceramic Printed Soup Cups 300 ml",
-    "productName": "CDI Pack Of 4 Ceramic Printed Soup Cups 300 ml",
-    "rating": 3.759493589401245,
-    
-  } 
+[
+  {
+    "id":1,
+    "FirstName":"bellam",
+    "LastName":"rahul",
+    "address":"peddapalli",
+    "salary":90000,
+    "DOB":"22-01-1991"
+  },
+  {
+    "id":2,
+    "FirstName":"bellam",
+    "LastName":"akhil",
+    "address":"peddapalli",
+    "salary":90000,
+    "DOB":"22-01-1991"
+  },
+  {
+    "id":3,
+    "FirstName":"bellam",
+    "LastName":"nagaraj",
+    "address":"peddapalli",
+    "salary":90000,
+    "DOB":"22-01-1991"
+  },
+  {
+    "id":4,
+    "FirstName":"bellam",
+    "LastName":"shiva",
+    "address":"peddapalli",
+    "salary":90000,
+    "DOB":"22-01-1991"
+  }
+  
 ]
-}
