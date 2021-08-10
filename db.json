@@ -3,35 +3,35 @@
   "employees" :[
   {
     "id":1,
-    "FirstName":"bellam",
-    "LastName":"rahul",
-    "address":"peddapalli",
-    "salary":90000,
-    "DOB":"22-01-1991"
+    "FirstName":"Jhon",
+    "LastName":"Doe",
+    "address":"banglore",
+    "salary":30000,
+    "DOB":"22-01-1990"
   },
   {
     "id":2,
-    "FirstName":"bellam",
-    "LastName":"akhil",
-    "address":"peddapalli",
-    "salary":90000,
-    "DOB":"22-01-1991"
+    "FirstName":"James",
+    "LastName":"smith",
+    "address":"Hyderabad",
+    "salary":50000,
+    "DOB":"22-01-1995"
   },
   {
     "id":3,
-    "FirstName":"bellam",
-    "LastName":"nagaraj",
-    "address":"peddapalli",
+    "FirstName":"ramya",
+    "LastName":"rao",
+    "address":"pune",
     "salary":90000,
-    "DOB":"22-01-1991"
+    "DOB":"22-01-1995"
   },
   {
     "id":4,
-    "FirstName":"bellam",
+    "FirstName":"jaganath",
     "LastName":"shiva",
-    "address":"peddapalli",
-    "salary":90000,
-    "DOB":"22-01-1991"
+    "address":"mumbai",
+    "salary":80000,
+    "DOB":"22-01-1992"
   }
   
 ]
