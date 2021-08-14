@@ -14,31 +14,40 @@
   },
   {
     "id":2,
-    "FirstName":"James",
-    "LastName":"smith",
-    "address":"Hyderabad",
-    "salary":50000,
-    "DOB":"22-01-1990",
+    "FirstName":"Jhon",
+    "LastName":"Doe",
+    "email":"Jhon@gmail.com",
+    "phone":9866789679,
+    "state":"telanagna",
+    "city":"karimnagar",
+    "dob":"22-01-1990",
+    "gender":"male",
     "language":"telugu"
   },
-  {
+   {
     "id":3,
-    "FirstName":"ramya",
-    "LastName":"rao",
-    "address":"pune",
-    "salary":80000,
-    "DOB":"22-01-1990",
+    "FirstName":"Jhon",
+    "LastName":"Doe",
+    "email":"Jhon@gmail.com",
+    "phone":9866789679,
+    "state":"telanagna",
+    "city":"karimnagar",
+    "dob":"22-01-1990",
+    "gender":"male",
     "language":"telugu"
   },
-  {
+   {
     "id":4,
-    "FirstName":"jaganath",
-    "LastName":"shiva",
-    "address":"mumbai",
-    "salary":80000,
-    "DOB":"22-01-1990",
+    "FirstName":"Jhon",
+    "LastName":"Doe",
+    "email":"Jhon@gmail.com",
+    "phone":9866789679,
+    "state":"telanagna",
+    "city":"karimnagar",
+    "dob":"22-01-1990",
+    "gender":"male",
     "language":"telugu"
-  }
+  },
   
 ]
 }
