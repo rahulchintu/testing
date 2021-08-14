@@ -4,9 +4,12 @@
     "id":1,
     "FirstName":"Jhon",
     "LastName":"Doe",
-    "address":"banglore",
-    "salary":30000,
-    "DOB":"22-01-1990",
+    "email":"Jhon@gmail.com",
+    "phone":9866789679,
+    "state":"telanagna",
+    "city":"karimnagar",
+    "dob":"22-01-1990",
+    "gender":"male",
     "language":"telugu"
   },
   {
