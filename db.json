@@ -6,7 +6,8 @@
     "LastName":"Doe",
     "address":"banglore",
     "salary":30000,
-    "DOB":"22-01-1990"
+    "DOB":"22-01-1990",
+    "language":"telugu"
   },
   {
     "id":2,
@@ -14,15 +15,17 @@
     "LastName":"smith",
     "address":"Hyderabad",
     "salary":50000,
-    "DOB":"22-01-1995"
+    "DOB":"22-01-1990",
+    "language":"telugu"
   },
   {
     "id":3,
     "FirstName":"ramya",
     "LastName":"rao",
     "address":"pune",
-    "salary":90000,
-    "DOB":"22-01-1995"
+    "salary":80000,
+    "DOB":"22-01-1990",
+    "language":"telugu"
   },
   {
     "id":4,
@@ -30,7 +33,8 @@
     "LastName":"shiva",
     "address":"mumbai",
     "salary":80000,
-    "DOB":"22-01-1992"
+    "DOB":"22-01-1990",
+    "language":"telugu"
   }
   
 ]
