@@ -2,8 +2,8 @@
   "employees" :[
   {
     "id":1,
-    "FirstName":"Jhon",
-    "LastName":"Doe",
+    "firstName":"Jhon",
+    "lastName":"Doe",
     "email":"Jhon@gmail.com",
     "phone":9866789679,
     "state":"telanagna",
@@ -14,8 +14,8 @@
   },
   {
     "id":2,
-    "FirstName":"Jhon",
-    "LastName":"Doe",
+    "firstName":"Jhon",
+    "lastName":"Doe",
     "email":"Jhon@gmail.com",
     "phone":9866789679,
     "state":"telanagna",
@@ -26,8 +26,8 @@
   },
    {
     "id":3,
-    "FirstName":"Jhon",
-    "LastName":"Doe",
+    "firstName":"Jhon",
+    "lastName":"Doe",
     "email":"Jhon@gmail.com",
     "phone":9866789679,
     "state":"telanagna",
@@ -38,8 +38,8 @@
   },
    {
     "id":4,
-    "FirstName":"Jhon",
-    "LastName":"Doe",
+    "firstName":"Jhon",
+    "lastName":"Doe",
     "email":"Jhon@gmail.com",
     "phone":9866789679,
     "state":"telanagna",
