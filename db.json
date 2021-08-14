@@ -14,45 +14,6 @@
     "language":"Telugu",
     
   },
-  {
-    "id":2,
-    "firstName":"Jhon",
-    "lastName":"Doe",
-    "email":"jhon@gmail.com",
-    "DOB":"22-01-1990",
-    "phone":9870384793,
-    "state":"Telangana",
-    "city":"Warangal",
-    "gender":"male",
-    "language":"Telugu",
-    
-  },
-    {
-    "id":3,
-    "firstName":"Jhon",
-    "lastName":"Doe",
-    "email":"jhon@gmail.com",
-    "DOB":"22-01-1990",
-    "phone":9870384793,
-    "state":"Telangana",
-    "city":"Warangal",
-    "gender":"male",
-    "language":"Telugu",
-    
-  },
-    {
-    "id":4,
-    "firstName":"Jhon",
-    "lastName":"Doe",
-    "email":"jhon@gmail.com",
-    "DOB":"22-01-1990",
-    "phone":9870384793,
-    "state":"Telangana",
-    "city":"Warangal",
-    "gender":"male",
-   "language":"Telugu",
-    
-  },
   
 ]
 }
