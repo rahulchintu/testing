@@ -3,36 +3,56 @@
   "employees" :[
   {
     "id":1,
-    "FirstName":"Jhon",
-    "LastName":"Doe",
-    "address":"banglore",
-    "salary":30000,
-    "DOB":"22-01-1990"
+    "firstName":"Jhon",
+    "lastName":"Doe",
+    "email":"jhon@gmail.com",
+    "DOB":"22-01-1990",
+    "phone":9870384793,
+    "state":"Telangana",
+    "city":"Warangal",
+    "gender":"male",
+    language:"Telugu",
+    
   },
   {
     "id":2,
-    "FirstName":"James",
-    "LastName":"smith",
-    "address":"Hyderabad",
-    "salary":50000,
-    "DOB":"22-01-1995"
+    "firstName":"Jhon",
+    "lastName":"Doe",
+    "email":"jhon@gmail.com",
+    "DOB":"22-01-1990",
+    "phone":9870384793,
+    "state":"Telangana",
+    "city":"Warangal",
+    "gender":"male",
+    language:"Telugu",
+    
   },
-  {
+    {
     "id":3,
-    "FirstName":"ramya",
-    "LastName":"rao",
-    "address":"pune",
-    "salary":90000,
-    "DOB":"22-01-1995"
+    "firstName":"Jhon",
+    "lastName":"Doe",
+    "email":"jhon@gmail.com",
+    "DOB":"22-01-1990",
+    "phone":9870384793,
+    "state":"Telangana",
+    "city":"Warangal",
+    "gender":"male",
+    language:"Telugu",
+    
   },
-  {
+    {
     "id":4,
-    "FirstName":"jaganath",
-    "LastName":"shiva",
-    "address":"mumbai",
-    "salary":80000,
-    "DOB":"22-01-1992"
-  }
+    "firstName":"Jhon",
+    "lastName":"Doe",
+    "email":"jhon@gmail.com",
+    "DOB":"22-01-1990",
+    "phone":9870384793,
+    "state":"Telangana",
+    "city":"Warangal",
+    "gender":"male",
+    language:"Telugu",
+    
+  },
   
 ]
 }
