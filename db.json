@@ -1,6 +1,5 @@
-{
-  "employees" :[
-  {
+
+ [ {
     "id":1,
     "FirstName":"Jhon",
     "LastName":"Doe",
@@ -12,6 +11,4 @@
     "LastName":"Doe",
     
   },
-  
-]
-}
+  ]
