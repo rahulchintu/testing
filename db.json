@@ -2,15 +2,9 @@
   "employees" :[
   {
     "id":1,
-    "firstName":"Jhon",
-    "lastName":"Doe",
-    "email":"jhon@gmail.com",
-    "dob":"22-08-1999",
-    "phone":9867898378,
-    "state":"telangana",
-    "city":"karimnagar",
-    "gender":"male",
-    "language":"telugu"
+    "FirstName":"Jhon",
+    "LastName":"Doe",
+    
   },
   
   
