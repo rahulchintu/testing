@@ -24,30 +24,8 @@
     "gender":"male",
     "language":"telugu"
   },
-   {
-    "id":3,
-    "firstName":"Jhon",
-    "lastName":"Doe",
-    "email":"Jhon@gmail.com",
-    "phone":9866789679,
-    "state":"telanagna",
-    "city":"karimnagar",
-    "dob":"22-01-1990",
-    "gender":"male",
-    "language":"telugu"
-  },
-   {
-    "id":4,
-    "firstName":"Jhon",
-    "lastName":"Doe",
-    "email":"Jhon@gmail.com",
-    "phone":9866789679,
-    "state":"telanagna",
-    "city":"karimnagar",
-    "dob":"22-01-1990",
-    "gender":"male",
-    "language":"telugu"
-  },
+
+ 
   
 ]
 }
