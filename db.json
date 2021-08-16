@@ -6,7 +6,7 @@
     "lastName":"Doe",
     "email":"Jhon@gmail.com",
     "phone":9866789679,
-    "state":"telanagna",
+    "state":"telangana",
     "city":"karimnagar",
     "dob":"22-01-1990",
     "gender":"male",
@@ -14,24 +14,24 @@
   },
   {
     "id":2,
-    "firstName":"Jhon",
+    "firstName":"Rohan",
     "lastName":"Doe",
-    "email":"Jhon@gmail.com",
-    "phone":9866789679,
-    "state":"telanagna",
+    "email":"Rohan@gmail.com",
+    "phone":9887689679,
+    "state":"telangana",,
     "city":"karimnagar",
     "dob":"22-01-1990",
     "gender":"male",
-    "language":"telugu"
+    "language":["telugu","hindi"]
   },
    {
     "id":3,
-    "firstName":"Jhon",
-    "lastName":"Doe",
+    "firstName":"Rakesh",
+    "lastName":"joe",
     "email":"Jhon@gmail.com",
     "phone":9866789679,
-    "state":"telanagna",
-    "city":"karimnagar",
+    "state":"andhra",
+    "city":"warangal",
     "dob":"22-01-1990",
     "gender":"male",
     "language":"telugu"
@@ -42,11 +42,11 @@
     "lastName":"Doe",
     "email":"Jhon@gmail.com",
     "phone":9866789679,
-    "state":"telanagna",
+    "state":"telangana",
     "city":"karimnagar",
     "dob":"22-01-1990",
     "gender":"male",
-    "language":"telugu"
+    "language":["telugu","hindi"]
   }
   
 ]
